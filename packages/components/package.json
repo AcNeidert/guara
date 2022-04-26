@@ -1,0 +1,17 @@
+{
+  "name": "@guara/components",
+  "version": "1.0.0",
+  "description": "Guara Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ui",
+    "Components",
+    "for",
+    "Guara"
+  ],
+  "author": "acneidert@gmail.com",
+  "license": "ISC"
+}
