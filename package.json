@@ -1,6 +1,6 @@
 {
   "name": "guara",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Components for Nullstack",
   "main": "index.js",
   "repository": "https://github.com/AcNeidert/guara",
