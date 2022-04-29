@@ -1,0 +1,11 @@
+{
+  "name": "@guara-tool/orm",
+  "version": "1.0.0",
+  "description": "ORM to Guara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Neidert <acneidert@gmail.com>",
+  "license": "ISC"
+}
